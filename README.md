@@ -16,7 +16,7 @@
 [linkedin]: https://www.linkedin.com/in/hongjun-c/
 [prevu3d]: https://www.instagram.com/prevu3d/?hl=fr
 [resume]: https://github.com/njchensl/gdm-application-f-2021/raw/main/Hongjun%20Chen%20Resume%20GDM.pdf
-[mcgj]: 
+[mcgj]: https://nanjingchj.itch.io/thealmighty
 [ggj]: https://v3.globalgamejam.org/2021/games/egg-haunt-8
 [ggj_repo]: https://github.com/litelawliet/GGJ2021-TBA
 [mcgj_repo]: https://github.com/njchensl/mcgame-jam-2021-almighty
